@@ -19,7 +19,7 @@ This is a simple Python program that calculates total investment value based on 
 1. Install Python
 2. Run the file:
 
-python stock_tracker.py
+python Stock_portfolio_tracker.py
 
 ## Output
 
